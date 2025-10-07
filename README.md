@@ -48,3 +48,5 @@ Features for people with disabilities:
 1) In the lower left corner, you can click "+" to add a request for help. Enter the information needed for assistance.
 2) A task list will appear on the left side.
 3) You can also determine the user's location for convenience.
+
+THX
