@@ -1,5 +1,5 @@
 # 2Volusion
-The website for 2GIS Hackathon 2025
+The website for 2GIS Hackathon 2025 - Lose :(
 __________________________________________________________________________________________________________________________________
 INSTRUCTION & ABOUT
 -----
